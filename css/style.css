@@ -33,7 +33,7 @@
 	right: -1px;
 }
 
-.circuloF {
+.circulo {
 	border: 2px solid white;
 	border-radius: 100%; 
 	width: 150px;
@@ -42,10 +42,22 @@
   	margin-left: 41%;
   	margin-top: -5%;	
 }
-.linea-central{
-    height: 100%;
-    border-left: 2px solid white;;
-    right: 50%;
-    position: absolute;
-    top: 0%
+.uno {
+	height: 15px;
+  	width: 15px;
+  	background: white;
+	bottom: 90%
+	
 }
+.dos {
+	height: 15px;
+  	width: 15px;
+  	background: white;
+	left: 50%
+}
+.tres {
+	height: 15px;
+  	width: 15px;
+  	background: white;
+}
+
